@@ -9,7 +9,7 @@ gem "activesupport", ">= 2.1.0"
 gem "rack",          ">= 1.0.1"
 gem "rest-client",   ">= 1.4.0", "< 1.7.0"
 gem "sequel",        "~> 3.20.0"
-gem "sinatra",       "~> 1.0.0"
+gem "sinatra",       "~> 1.2.0"
 gem "sqlite3-ruby" , "~> 1.2"
 
 group :development do
